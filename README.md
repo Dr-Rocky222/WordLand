@@ -1,6 +1,9 @@
 # WordLand
 (Totally Free)A vocabulary learning app that helps beginners memorize and retain words more effectively using spaced repetition based on the Ebbinghaus forgetting curve.
 
+科学记忆，依据艾宾浩斯遗忘曲线进行科学规划，包含6500单词，如果需要发音，需额外导入音频包，离线安全免费app
+
+
 离线安卓背单词应用，包含 6500 个词条。
 
 使用方法：
